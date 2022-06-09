@@ -1,0 +1,1 @@
+import{bE as a}from"./index.f17de39a.js";const e=a(),s=({params:a})=>e.get({url:"/example/list",params:a}),t=({data:a})=>e.post({url:"/example/save",data:a}),p=({params:a})=>e.get({url:"/example/detail",params:a}),l=({data:a})=>e.post({url:"/example/delete",data:a});export{p as a,l as d,s as g,t as s};
